@@ -4,6 +4,13 @@ This E-Portfolio is about Quarkus, the Supersonic Subatomic Java Framework.
 
 ## Software for Live Coding
 
+If you would like to participate in Live Coding, you will need:
+  - An IDE
+  - JDK 11+ installed with JAVA_HOME configured appropriately
+  - Apache Maven 3.8.1+
+  - A working container runtime (Docker or Podman)
+  - Mandrel or GraalVM installed
+  - A working C development environment
 
 
 ## Running the application in dev mode
