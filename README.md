@@ -2,6 +2,10 @@
 
 This E-Portfolio is about Quarkus, the Supersonic Subatomic Java Framework.
 
+## Video Link zu Präsentation
+
+https://drive.google.com/file/d/1YZ12s2LuL5wvUoAkeoFzdIClYsbqNsZQ/view?usp=sharing
+
 ## Software for Live Coding
 
 If you would like to participate in Live Coding, you will need:
