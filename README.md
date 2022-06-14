@@ -2,7 +2,7 @@
 
 This E-Portfolio is about Quarkus, the Supersonic Subatomic Java Framework.
 
-## Video Link zu Präsentation
+## Video Link for presentation
 
 https://drive.google.com/file/d/1YZ12s2LuL5wvUoAkeoFzdIClYsbqNsZQ/view?usp=sharing
 
